@@ -1,9 +1,7 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog
-date: 2018-05-01
-tags:
-  - another tag
+title: Raise Something Radical.
+description: The Motive
+date: 2024-04-12
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam est neque, ultrices vel varius ac, cursus pretium velit. Curabitur efficitur lacus magna, at convallis diam rhoncus ut.
 
