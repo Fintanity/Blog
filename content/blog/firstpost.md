@@ -3,20 +3,14 @@ title: Raise Something Radical.
 description: The Motive
 date: 2024-04-12
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam est neque, ultrices vel varius ac, cursus pretium velit. Curabitur efficitur lacus magna, at convallis diam rhoncus ut.
+# A Cry From A Forgotten World
 
-## Section Header
+Do you hear them? Because I do.
 
-Donec varius consectetur ex eget malesuada. Nullam finibus est quis lobortis euismod. Duis accumsan purus nec ligula laoreet, nec pulvinar nibh consectetur. Ut ac facilisis elit.
+Raise your blade. Fight. Ffight! Fffighttt!!!!!!!
 
-```diff-js
- // this is a command
- function myCommand() {
-+  let counter = 0;
--  let counter = 1;
-   counter++;
- }
+Check your watch brother! The time is now!
 
- // Test with a line break above this line.
- console.log('Test');
-```
+DOMINATE THE ENEMY!
+
+![](https://ichef.bbci.co.uk/news/976/cpsprodpb/E17B/production/_118232775_gettyimages-1224533031.jpg)
